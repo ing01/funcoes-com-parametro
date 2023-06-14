@@ -1,4 +1,4 @@
-##Faça uma função/método para calcular a tabuada de um número informado pelo usuário.
+# Algoritmo com função/método para calcular a tabuada de um número informado pelo usuário.
 
 def tabuada(x):
   for cont in range(1,11):

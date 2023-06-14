@@ -1,4 +1,4 @@
-##Faça uma função/método para verificar e contar quantas letras a tem numa frase.
+# Algoritmo com uma função/método para verificar e contar quantas letras a tem numa frase.
 
 def contar(frase):
   somente_a = 0

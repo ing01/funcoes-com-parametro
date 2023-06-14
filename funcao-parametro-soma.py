@@ -1,4 +1,4 @@
-##Faça uma função/método para a partir de um valor inicial e um valor final realizar o acumulo desse valores e apresentar o resultado.
+# Algoritmo com uma função/método para a partir de um valor inicial e um valor final realizar o acumulo desse valores e apresentar o resultado.
 
 def somar_entre(a, b):
   soma = 0

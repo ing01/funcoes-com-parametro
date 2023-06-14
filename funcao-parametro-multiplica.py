@@ -1,4 +1,4 @@
-##Faça um programa contendo uma função/método que leia um número e o multiplique por 2, apresente o resultado.
+# Algoritmo contendo uma função/método que leia um número e o multiplique por 2, apresente o resultado.
 
 def multiplicar(numero):
   r = numero * 2

@@ -1,4 +1,4 @@
-##Faça um programa contendo uma função/método para subtrair dois números e apresentar o resultado.
+# Algoritmo contendo uma função/método para subtrair dois números e apresentar o resultado.
 
 def subtrair(numero, numero2):
   s = numero - numero2
